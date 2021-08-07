@@ -1,0 +1,7 @@
+LOGIN ADMIN
+email : aulia@gmail.com
+password : aulia
+
+LOGIN USER
+email : april@gmail.com
+password : april
